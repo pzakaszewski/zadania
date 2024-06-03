@@ -1,0 +1,6 @@
+<p *ngIf="!isLoggedIn">dashboard dostepny po zalogowaniu!</p>
+<nav *ngIf="isLoggedIn">
+    <ul>
+        <li><a routerLink="/dashboard">Dashboard</a></li>
+    </ul>
+</nav>

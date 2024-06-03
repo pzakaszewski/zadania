@@ -1,0 +1,16 @@
+F:\TDD\zadanie4\zadanie4\bin\Debug\net5.0\zadanie4.exe
+F:\TDD\zadanie4\zadanie4\bin\Debug\net5.0\zadanie4.deps.json
+F:\TDD\zadanie4\zadanie4\bin\Debug\net5.0\zadanie4.runtimeconfig.json
+F:\TDD\zadanie4\zadanie4\bin\Debug\net5.0\zadanie4.runtimeconfig.dev.json
+F:\TDD\zadanie4\zadanie4\bin\Debug\net5.0\zadanie4.dll
+F:\TDD\zadanie4\zadanie4\bin\Debug\net5.0\ref\zadanie4.dll
+F:\TDD\zadanie4\zadanie4\bin\Debug\net5.0\zadanie4.pdb
+F:\TDD\zadanie4\zadanie4\obj\Debug\net5.0\zadanie4.csproj.AssemblyReference.cache
+F:\TDD\zadanie4\zadanie4\obj\Debug\net5.0\zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+F:\TDD\zadanie4\zadanie4\obj\Debug\net5.0\zadanie4.AssemblyInfoInputs.cache
+F:\TDD\zadanie4\zadanie4\obj\Debug\net5.0\zadanie4.AssemblyInfo.cs
+F:\TDD\zadanie4\zadanie4\obj\Debug\net5.0\zadanie4.csproj.CoreCompileInputs.cache
+F:\TDD\zadanie4\zadanie4\obj\Debug\net5.0\zadanie4.dll
+F:\TDD\zadanie4\zadanie4\obj\Debug\net5.0\ref\zadanie4.dll
+F:\TDD\zadanie4\zadanie4\obj\Debug\net5.0\zadanie4.pdb
+F:\TDD\zadanie4\zadanie4\obj\Debug\net5.0\zadanie4.genruntimeconfig.cache
